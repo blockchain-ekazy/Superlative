@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+#![Baby Doodle Apes](https://user-images.githubusercontent.com/100062048/155755282-e39c24c2-f270-4fc5-af9f-ead09a500020.png)
+ Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
